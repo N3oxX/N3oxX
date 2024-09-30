@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 <!--
 **N3oxX/N3oxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
